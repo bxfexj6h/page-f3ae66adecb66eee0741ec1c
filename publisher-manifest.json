@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "67dd5b3fae20e2f43708f0e0",
+  "owner": "bxfexj6h",
+  "repo": "page-f3ae66adecb66eee0741ec1c",
+  "title": "星辰加速(starlinkboost)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f3ae66adecb66eee0741ec1c",
+      "a": "星辰加速(starlinkboost)",
+      "b": "机场官网线路发布页",
+      "entity": "星辰加速(starlinkboost)",
+      "brand": "星辰加速(starlinkboost)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "350ad0c0b6558cb1b6bf04786e5ef17f7f62b51a7b2af4edc90df7541fa099f5",
+      "content": {
+        "primary_entity": "星辰加速(starlinkboost)",
+        "keyword1": "星辰加速(starlinkboost)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，星辰加速(starlinkboost)提供基础版、旗舰版与团队版三档订阅，月付分别¥15、¥35、¥85，按年付为¥150/年、¥350/年、¥850/年。基础版每月100GB流量、3台设备在线；旗舰版每月300GB、5台设备在线并带IPLC专线优化；团队版每月1000GB、20台设备在线，适合小型团队协同使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅与专线加速",
+          "AI_HERO_INTRO": "星辰加速(starlinkboost)面向需要稳定跨境网络的用户，提供按月或按年订阅的多档套餐。基础版满足轻度浏览，旗舰版增加流量与IPLC专线，团队版支持二十台设备同时在线并可按需定制路由。",
+          "AI_VISUAL_TITLE": "星辰加速·订阅对比",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版IPLC专线加速",
+          "AI_HIGHLIGHT_3": "年付方案节省约两个月费用",
+          "AI_FEATURES_TITLE": "订阅要点",
+          "AI_FEATURES_INTRO": "从设备数量、月流量和计费周期三个角度选择合适套餐。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备在线，旗舰版支持5台，团队版可满足20台设备同时连接。",
+          "AI_FEATURE_TITLE_2": "按流量选档",
+          "AI_FEATURE_TEXT_2": "基础版每月100GB，旗舰版每月300GB，团队版每月1000GB，按需升降档更灵活。",
+          "AI_FEATURE_TITLE_3": "年付更划算",
+          "AI_FEATURE_TEXT_3": "三档均提供年付价格，基础版¥150/年、旗舰版¥350/年、团队版¥850/年，比月付合计更低。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据常用设备选择对应客户端，Windows与macOS适合桌面端，iOS与Android适合移动端。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、在线设备数与节点权益上有区别，可结合日常用量和团队规模选择。旗舰版带IPLC专线优化，适合对延迟敏感的游戏或视频场景。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "从选套餐到完成客户端订阅配置，通常只需三步。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量需求，在基础版、旗舰版或团队版之间做出选择。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备的系统和版本满足客户端运行条件，桌面与移动端各有对应客户端。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "获取订阅地址后，按所用客户端文档导入节点，保存后即可连接使用。",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "星辰加速的套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_1": "可以。基础版与旗舰版之间支持按剩余周期比例升级，补差价后可立即使用更高档位的流量与节点权益。团队版升级建议联系客服确认设备数变更。",
+          "AI_FAQ_QUESTION_2": "订阅地址如何导入客户端？",
+          "AI_FAQ_ANSWER_2": "在客户端中选择从订阅链接导入，粘贴获取到的订阅地址并保存，客户端会自动拉取节点列表。若导入失败，可尝试切换网络或重新复制完整地址。",
+          "AI_FAQ_QUESTION_3": "一档套餐最多几台设备同时在线？",
+          "AI_FAQ_ANSWER_3": "基础版支持3台，旗舰版支持5台，团队版支持20台设备同时在线。超出并发设备数时，新设备可能无法连接，可关闭部分设备或升级套餐。",
+          "AI_FAQ_QUESTION_4": "月付和年付的价格差别大吗？",
+          "AI_FAQ_ANSWER_4": "年付整体更省。基础版月付¥15，年付¥150；旗舰版月付¥35，年付¥350；团队版月付¥85，年付¥850，相当于每年少付约两个月费用。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版适合小型工作室或多人协作场景，每月1000GB流量与20台设备在线，并支持企业定制路由和专属客户经理服务，便于统一管理多终端。",
+          "AI_CLOSING_TITLE": "按需选档，轻松连接",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选定套餐，获取订阅后即可在各客户端完成配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ei33n.cn",
+    "host": "ei33n.cn"
+  },
+  "file_hashes": {
+    "index.html": "1d33c28d40cf9967b13b2367382f1d4d79606b45f289715b88d6ae6f3df1297b",
+    "sitemap.xml": "b17afc4aae03155307edca7b4ed0011f89f97dbc557d4d9dc2570a14fb7c0ad6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c146575ff629f7083cc0cb009b3ec9827c23c6e0297a70aeedabc459719be8de",
+    "robots.txt": "0afe920c31a381303a784c0492fde0576c630555324ce3afa970b9c861c98d72",
+    "d7e211e84d7af4cf9e216601505004ab.txt": "34b698f0f9e5614e1e3928f1ba1874ccfcfdaf9ad4c7b70bf9b98ac208205225"
+  },
+  "revision": "00dd5ee487fdc92bc7f9b5c1a374bae49d72bb39097c5a8c56953e301e0b30a3"
+}
